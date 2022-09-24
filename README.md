@@ -1,4 +1,4 @@
-[![Social banner for Zahid Khan](https://github.com//ZFK07/zfk07/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
+[![Social banner for Zahid Khan](https://github.com//ZFK07/zfk07/raw/master/assets/header-banner.png)](https://jhey.dev)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Zahid Khan.

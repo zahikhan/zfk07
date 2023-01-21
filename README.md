@@ -6,8 +6,8 @@
     <img src="https://komarev.com/ghpvc/?username=ZFK07&label=ProfileViews" alt="Profile_Views"/>
   </a>
 <!-- GitHub Contributions Badge -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
-    <img src="https://badges.strrl.dev/contributions/all/wasitshafi" alt="All_Contributions"/>
+  <a href="https://github.com/ZFK07?tab=repositories">
+    <img src="https://badges.strrl.dev/contributions/all/ZFK07" alt="All_Contributions"/>
   </a>
 <!-- GitHub Commits Badge -->
   <a href="https://github.com/wasitshafi?tab=repositories">

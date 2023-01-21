@@ -8,7 +8,7 @@ I'm Zahid Khan.
 <h1 align='center'><i>Stay awesome!</i></h1>
 
 
-<h1>:wave: Hello there! I'm Wasit Shafi</h1>
+<h1>:wave: Hello there! I'm Zahid Khan.</h1>
 <!-- <h3>🔭 I’m currently working as a Software Engineer<h3> -->
 <p>
 <!-- Profile Views -->
@@ -79,9 +79,9 @@ I'm Zahid Khan.
 
 ### 🔗 Connect with me:
 
-<a href="mailto:wasitshafi700@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-wasitshafi"/></a>
-<a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-wasitshafi"/></a>
-<a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-wasitshafi"/></a>
+<a href="mailto:xahiidkhan@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-xahiidkhan"/></a>
+<a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-zahidkhan"/></a>
+<a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-zahidkhan"/></a>
 <br />
 
 <p align="center"><b>Thanks for your time!</b></p>

@@ -3,6 +3,6 @@
 <p align='center'>
 I'm Zahid Khan.
 </p>
-<p align='center'>For enquiries, reach out @ xahiidkhan@gmail.com or over on <a href="https://twitter.com/jh3yy">LinkedIn</a>.</p>
+<p align='center'>For enquiries, reach out @ xahiidkhan@gmail.com or over on <a href="https://www.linkedin.com/in/zfk07/">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>

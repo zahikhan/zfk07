@@ -22,8 +22,8 @@
     <img src="https://badges.strrl.dev/years/wasitshafi" alt="Years" />
   </a>
 <!-- Stackoverflow badge -->
-  <a href="https://stackoverflow.com/users/10249156/wasitshafi">
-    <img src="https://stackoverflow-badge.vercel.app/?userID=10249156" style="border-bottom:1px solid gray" alt="StackOverflow"/>
+  <a href="https://stackoverflow.com/users/10249156/zahid-khan">
+    <img src="https://stackoverflow-badge.vercel.app/?userID=6073148" style="border-bottom:1px solid gray" alt="StackOverflow"/>
   </a>
 </p>
 

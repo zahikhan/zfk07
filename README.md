@@ -39,12 +39,6 @@
 
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
 
-
-### 🧰 Languages & Tools:
-
-<!-- https://icons8.com/icons -->
-<p>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" ><img src="https://img.icons8.com/color/50/000000/javascript.png" alt="javascript"/></a><a href="https://www.typescriptlang.org"  title="TypeScript" ><img src="https://img.icons8.com/color/50/000000/typescript.png" alt="typescript"/></a><a href="https://en.wikipedia.org/wiki/HTML"  title="HTML" ><img src="https://img.icons8.com/color/50/000000/html-5.png"alt="html" /></a><a href="https://en.wikipedia.org/wiki/CSS" title="CSS" ><img src="https://img.icons8.com/color/50/000000/css3.png" alt="css3" /></a><a href="https://sass-lang.com" title="SASS" ><img src="https://img.icons8.com/color/50/000000/sass.png" alt="sass" /></a><a href="https://reactjs.org/" title="React" ><img src="https://reactjs.org/favicon.ico" alt="react" height="50px" width="50px" /></a><a href="https://reactnative.dev/" title="React Native" ><img src="https://reactnative.dev/img/pwa/manifest-icon-512.png" alt="react-native" height="50px" width="50px"/></a><a href="https://www.electronjs.org" title="Electron" ><img src="https://www.electronjs.org/assets/img/logo.svg" alt="electron-js" height="50px" width="50px"/></a><a href="https://redux.js.org" title="Redux" ><img src="https://img.icons8.com/color/50/000000/redux.png" alt="Redux"/></a><a href="https://mobx-state-tree.js.org"  title="Mob-X-State Tree" ><img src="https://mobx-state-tree.js.org/img/favicon.ico" alt="MST" width="50" height="50"/></a><a href="https://nodejs.org/en" title="NodeJS" ><img src="https://img.icons8.com/fluency/50/000000/node-js.png" alt="node-js" /></a><a href="https://www.mongodb.com"  title="MongoDB" ><img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" /></a><a href="https://firebase.google.com"  title="Firebase" ><img src="https://img.icons8.com/color/50/000000/google-firebase-console.png" alt="firebase" /></a><a href="https://socket.io/" title="socket.io"><img src="https://socket.io/images/favicon.png" alt="socket.io"  height="50px" width="50px"/></a><a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C" ><img src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c" /></a><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++" ><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="cpp" /></a><a href="https://docs.oracle.com/javase/8" title="JAVA" ><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" alt="java" /></a><a href="https://en.wikipedia.org/wiki/SQL" title="SQL" ><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" alt="sql" /></a><a href="https://www.python.org" title="Python" ><img src="https://img.icons8.com/color/50/000000/python.png" alt="python" /></a><a href="https://git-scm.com" title="GIT" ><img src="https://img.icons8.com/color/50/000000/git.png" alt="git" /></a><a href="https://www.atlassian.com/software/jira" title="Jira"><img src="https://img.icons8.com/color/50/000000/jira.png" alt="jira" /></a><a href="https://www.latex-project.org" title="Latex" ><img src="https://img.icons8.com/color/50/000000/latex.png" alt="latex" /></a>
   
 <!-- 
 <a href="https://webpack.js.org" title="WebPack"><img src="https://img.icons8.com/color/50/000000/webpack.png"  alt="webpack" /></a>
@@ -58,8 +52,7 @@
 ### 🔗 Connect with me:
 
 <a href="mailto:xahiidkhan@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-xahiidkhan"/></a>
-<a href="https://join.skype.com/invite/VhQza341zfg7"><img src="https://img.icons8.com/color/48/000000/skype.png" alt="skype-zahidkhan"/></a>
-<a href="https://www.linkedin.com/in/wasitshafi/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-zahidkhan"/></a>
+<a href="https://www.linkedin.com/in/zfk07/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-zahidkhan"/></a>
 <br />
 
 <p align="center"><b>Thanks for your time!</b></p>

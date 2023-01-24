@@ -10,15 +10,15 @@
     <img src="https://badges.strrl.dev/contributions/all/ZFK07" alt="All_Contributions"/>
   </a>
 <!-- GitHub Commits Badge -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
+  <a href="https://github.com/ZFK07?tab=repositories">
     <img src="https://badges.strrl.dev/commits/all/wasitshafi" alt="All_Commits"/>
   </a>
 <!-- GitHub Issues and PRs Badge -->
-  <a href="https://github.com/wasitshafi?tab=repositories">
+  <a href="https://github.com/ZFK07?tab=repositories">
     <img src="https://badges.strrl.dev/issues-and-prs/all/wasitshafi" alt="All_Issues_And_PRs"/>
   </a>
 <!-- GitHub Membership Years Badge -->
-  <a href="https://github.com/wasitshafi/wasitshafi">
+  <a href="https://github.com/ZFK07/ZFK07">
     <img src="https://badges.strrl.dev/years/wasitshafi" alt="Years" />
   </a>
 <!-- Stackoverflow badge -->
@@ -32,25 +32,13 @@
 <!-- - 👨‍💻 &nbsp; I’m working on **Front End Technologies** -->
 <!-- - 🧐 &nbsp; More interested in **Back End Technologies!** -->
 
-- 👨‍💻 &nbsp; Interested in **Back End Technologies**, professional work experience with **Front End Technologies**
+- 👨‍💻 &nbsp; Interested in **Back End Technologies**, professional work experience with **Spring & Java Developer**
 - 🎓 &nbsp; Master of Computer Applications
 - 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view) || [Portfolio](https://wasitshafi.github.io/)
 - 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
 
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
 
-<div>
-  <a href="#">
-    <img align="center alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&include_all_commits=true&hide=prs"/>
-  </a>
-  <a href="#">
-    <img algin="center" alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api/top-langs/?username=wasitshafi&count_private=true&show_icons=true&hide_border=true&theme=onedark&langs_count=10&layout=compact"/>
-  </a>
-  <!-- wakatime configure - pending -->
-  <!-- <a href="#"> -->
-    <!-- <img algin="center" alt="wasit shafi stats" src="https://github-readme-stats-wasitshafi.vercel.app/api/wakatime?username=wasitshafi"/> -->
-  <!-- </a> -->
-</div>
 
 ### 🧰 Languages & Tools:
 

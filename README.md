@@ -34,8 +34,6 @@
 
 - 👨‍💻 &nbsp; Interested in **Back End Technologies**, professional work experience with **Spring & Java Developer**
 - 🎓 &nbsp; Master of Computer Applications
-- 🌐 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1eOz6O41hRVIyxqi8sGNHxgQbtlunMi_N/view) || [Portfolio](https://wasitshafi.github.io/)
-- 💯 &nbsp; **Free DevTip:** First solve the MELBORP then CODE!
 
 ### <img src="https://img.icons8.com/office/20/000000/bar-chart.png"/> Github Stats
 

@@ -52,6 +52,4 @@
 <a href="mailto:xahiidkhan@gmail.com"><img src="https://img.icons8.com/fluency/50/000000/mail.png" alt="email-id-xahiidkhan"/></a>
 <a href="https://www.linkedin.com/in/zfk07/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png" alt="linkedin-zahidkhan"/></a>
 <br />
-
-<p align="center"><b>Thanks for your time!</b></p>
 <hr/>

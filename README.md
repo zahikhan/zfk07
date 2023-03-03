@@ -1,4 +1,4 @@
-<h1>:wave: Hello there! I'm Zahid Khan.</h1>
+<h1>:wave: Hello there!</h1>
 <!-- <h3>🔭 I’m currently working as a Software Engineer<h3> -->
 <p>
 <!-- Profile Views -->
